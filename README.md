@@ -1,2 +1,2 @@
-# hidovales.github.io
+# hidrovales.github.io
 Página do Grupo de Pesquisa Hidrovales.
